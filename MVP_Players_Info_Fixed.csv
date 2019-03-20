@@ -1242,7 +1242,7 @@
 1240,MVP,1951,NL,blackew01,6,336,0,NL,CIN,Ewell,Blackwell,Ewell,blace102,blackew01
 1241,MVP,1951,NL,camparo01,243,336,11,NL,BRO,Roy,Campanella,Roy,campr102,camparo01
 1242,MVP,1951,NL,cavarph01,1,336,0,NL,CHN,Phil,Cavarretta,Philip Joseph,cavap101,cavarph01
-1243,MVP,1951,NL,darkal01,30,336,0,NL,NY1,Al,Dark,Alvin Ralph,darka101,darkal01
+1243,MVP,1951,NL,darkal01,30,336,0,NL,NY1,Alvin,Dark,Alvin Ralph,darka101,darkal01
 1244,MVP,1951,NL,dicksmu01,59,336,1,NL,PIT,Murry,Dickson,Murry Monroe,dickm101,dicksmu01
 1245,MVP,1951,NL,furilca01,6,336,0,NL,BRO,Carl,Furillo,Carl Anthony,furic101,furilca01
 1246,MVP,1951,NL,gordosi01,10,336,0,NL,BSN,Sid,Gordon,Sidney,gords101,gordosi01
@@ -1307,7 +1307,7 @@
 1305,MVP,1952,NL,camparo01,25,336,0,NL,BRO,Roy,Campanella,Roy,campr102,camparo01
 1306,MVP,1952,NL,coopewa01,1,336,0,NL,BSN,Walker,Cooper,William Walker,coopw102,coopewa01
 1307,MVP,1952,NL,coxbi02,8,336,0,NL,BRO,Billy,Cox,William Richard,cox-b101,coxbi02
-1308,MVP,1952,NL,darkal01,24,336,0,NL,NY1,Al,Dark,Alvin Ralph,darka101,darkal01
+1308,MVP,1952,NL,darkal01,24,336,0,NL,NY1,Alvin,Dark,Alvin Ralph,darka101,darkal01
 1309,MVP,1952,NL,dicksmu01,22,336,0,NL,PIT,Murry,Dickson,Murry Monroe,dickm101,dicksmu01
 1310,MVP,1952,NL,ennisde01,18,336,0,NL,PHI,Del,Ennis,Delmer,ennid101,ennisde01
 1311,MVP,1952,NL,gordosi01,6,336,0,NL,BSN,Sid,Gordon,Sidney,gords101,gordosi01
@@ -3579,7 +3579,7 @@
 3577,MVP,1993,AL,fieldce01,1,392,0,AL,DET,Cecil,Fielder,Cecil Grant,fielc001,fieldce01
 3578,MVP,1993,AL,gagnegr01,3,392,0,AL,KCA,Greg,Gagne,Gregory Carpenter,gagng001,gagnegr01
 3579,MVP,1993,AL,gonzaju03,185,392,0,AL,TEX,Juan,Gonzalez,Juan Alberto,gonzj002,gonzaju03
-3580,MVP,1993,AL,griffke02,182,392,0,AL,SEA,Ken,Griffey,George Kenneth,grifk002,griffke02
+3580,MVP,1993,AL,griffke02,182,392,0,AL,SEA,Ken,Griffey Jr.,George Kenneth,grifk002,griffke02
 3581,MVP,1993,AL,hoilech01,10,392,0,AL,BAL,Chris,Hoiles,Christopher Allen,hoilc001,hoilech01
 3582,MVP,1993,AL,johnsra05,1,392,0,AL,SEA,Randy,Johnson,Randall David,johnr005,johnsra05
 3583,MVP,1993,AL,keyji01,29,392,0,AL,NYA,Jimmy,Key,James Edward,key-j001,keyji01
@@ -3632,7 +3632,7 @@
 3630,MVP,1994,AL,coneda01,40,392,0,AL,KCA,David,Cone,David Brian,coned001,coneda01
 3631,MVP,1994,AL,davisch01,3,392,0,AL,CAL,Chili,Davis,Charles Theodore,davic001,davisch01
 3632,MVP,1994,AL,francju01,49,392,0,AL,CHA,Julio,Franco,Julio Cesar,franj002,francju01
-3633,MVP,1994,AL,griffke02,233,392,3,AL,SEA,Ken,Griffey,George Kenneth,grifk002,griffke02
+3633,MVP,1994,AL,griffke02,233,392,3,AL,SEA,Ken,Griffey Jr.,George Kenneth,grifk002,griffke02
 3634,MVP,1994,AL,keyji01,102,392,0,AL,NYA,Jimmy,Key,James Edward,key-j001,keyji01
 3635,MVP,1994,AL,knoblch01,8,392,0,AL,MIN,Chuck,Knoblauch,Edward Charles,knobc001,knoblch01
 3636,MVP,1994,AL,loftoke01,181,392,1,AL,CLE,Kenny,Lofton,Kenneth,loftk001,loftoke01
@@ -4900,7 +4900,7 @@
 4898,MVP,2018,NL,,105,420,0,,,Matt,Carpenter,,,carpema01
 4899,MVP,2018,NL,,59,420,0,,,Max,Scherzer,,,scherma01
 4900,MVP,2018,NL,,21,420,0,,,Anthony,Rendon,,,rendoan01
-4901,MVP,2018,NL,,19,420,0,,,Ronald,Acuna,,,acunaro01
+4901,MVP,2018,NL,,19,420,0,,,Ronald,Acuna Jr.,,,acunaro01
 4902,MVP,2018,NL,,16,420,0,,,Aaron,Nola,,,nolaaa01
 4903,MVP,2018,NL,,10,420,0,,,Justin,Turner,,,turneju01
 4904,MVP,2018,NL,,8,420,0,,,Max,Muncy,,,muncyma01
