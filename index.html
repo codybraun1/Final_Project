@@ -47,6 +47,13 @@ layout: default
 	
 	<h1>Model Creation</h1>
 	<h2>Why Random Forest?</h2>
+	<p>A Random Forest Classifier was chosen to model the selection of a group of players that are considered for an MVP
+	vote in a given year. This helped address the problem of only a small group of players even being considered for the 
+	award in a given year. To accomplish this the Classifier is trained on 3 years of player data, with a binary variable
+	indicating whether or not a player received an MVP vote as the target.</p>
+	<p>The results of the Random Forest Classifier are then fed into a Random Forest Regressor, which models the process of
+	determining which players are most deserving of the MVP award. The target for this model is the actual vote total awarded
+	to each player.</p>
 	<h2>Challenges and Solutions</h2>
 	
 	<h1>Dashboard</h1>
