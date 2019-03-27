@@ -55,11 +55,23 @@ layout: default
 	determining which players are most deserving of the MVP award. The target for this model is the actual vote total awarded
 	to each player.</p>
 	<h2>Challenges and Solutions</h2>
+	<ul>Player Names/IDs - Name and IDs did not match between the multiple data sources used, some of the names had to be 
+	manually looked up and changed to match across the databases.</ul>
+	<ul>Overfitting - To prevent the model from being over-fitted to a single season based on the winner, three seasons of
+	data is used to create the model for any given season.</ul>
+	<ul>Team Migration/Folding - Two teams have changed leagues within the research timeframe.  Also multiple teams have 
+	changed names/city or folded.  Player data was matched to leagues based on the team classification at the time of 
+	playing.  For teams that no longer exist, playoffs value is set to 0.</ul>
+
 	
 	<h1>Dashboard</h1>
     	<iframe width="700" height="500" src="https://app.powerbi.com/view?r=eyJrIjoiYzk4MGQzODYtOTdkOS00OTI3LWFhYjAtYmQ2NWJiZjQyMmFiIiwidCI6IjRjY2NhM2I1LTcxY2QtNGU2ZC05NzRiLTRkOWJlYjk2YzZkNiIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
 	<h1>Future Work</h1>
+	<ul>
+		<li>Incorporate Cy Young and Rookie of the Year voting into models</li>
+		<li>Further improve data source to solve for challenges with traded players and old teams</li>
+	</ul>
 
 </body>
 
