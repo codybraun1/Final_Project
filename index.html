@@ -15,7 +15,7 @@ layout: default
 	However, even with that being the case, writers for each team are tasked with voting for the MVP based on the following 
 	vague set of rules:
 	</p>
-	<p>There is no clear-cut definition of what Most Valuable means. It is up to the individual voter to decide who was the 
+	<i><p>There is no clear-cut definition of what Most Valuable means. It is up to the individual voter to decide who was the 
 	Most Valuable Player in each league to his team. The MVP need not come from a division winner or other playoff qualifier.</p>
 	<ul>
 		<li>Actual value of a player to his team, that is, strength of offense and defense.</li>
@@ -27,10 +27,23 @@ layout: default
 	<p>You are also urged to give serious consideration to all your selections, from 1 to 10. A 10th-place vote can influence 
 	the outcome of an election. You must fill in all 10 places on your ballot. Only regular-season performances are to be 
 	taken into consideration.
-	</pi>
-	<h1>Data Cleaning</h1>
+	</p></i>
+	<h1>ETL</h1>
 	<h2>Data Sources</h2>
-	<h2>ETL</h2>
+	<ul>
+		<li>Lahman Database - MVP voting and team season results</li>
+		<li>pybaseball - Function to convert baseball-reference ID's to Fangraphs ID's</li>
+		<li>Fangraphs.com - Historical batting, pitching, and fielding statistics</li>
+	</ul>
+	<h2>Data Transformations</h2>
+	<ul>
+		<li>Stripped Fielding data to one position per season by only keeping position with most innings</li>
+		<li>Converted all player ID's to Fangraphs</li>
+		<li>Remove duplicate data for players that were traded mid-season</li>
+		<li>Disregard data prior to 1931 - start of modern MVP rules</li>
+	</ul>
+	<h2>Load</h2>
+	<p>Joined Batting, Pitching, Fielding, MVP Results, and Team data into one dataframe and saved as .csv</p>
 	
 	<h1>Model Creation</h1>
 	<h2>Why Random Forest?</h2>
